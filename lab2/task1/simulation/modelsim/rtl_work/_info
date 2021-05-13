@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UW/ee371labs/lab2/task1/simulation/modelsim
+vDE1_SoC
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1618434965
+!i10b 1
+!s100 3VIjjc4N?WW5CjDfHFLPH2
+Ij3`RfInd65f1<5^MZT9T43
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 DE1_SoC_sv_unit
+S1
+R0
+Z5 w1618434955
+Z6 8D:/UW/ee371labs/lab2/task1/DE1_SoC.sv
+Z7 FD:/UW/ee371labs/lab2/task1/DE1_SoC.sv
+L0 12
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1618434965.000000
+Z10 !s107 D:/UW/ee371labs/lab2/task1/DE1_SoC.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task1|D:/UW/ee371labs/lab2/task1/DE1_SoC.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+D:/UW/ee371labs/lab2/task1
+Z14 tCvgOpt 0
+n@d@e1_@so@c
+vDE1_SoC_testbench
+R1
+R2
+!i10b 1
+!s100 F@gR3MD<P^3MBoVenjRD21
+IzeJ7R`OGCWUAJbQ<_5gC03
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 44
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@d@e1_@so@c_testbench
+vhex_driver
+R1
+R2
+!i10b 1
+!s100 ;LblK6AT0b_QamAZL0aCP1
+I2g@WfzY[P@kkKPnB:n[6O2
+R3
+Z15 !s105 hex_driver_sv_unit
+S1
+R0
+Z16 w1618433378
+Z17 8D:/UW/ee371labs/lab2/task1/hex_driver.sv
+Z18 FD:/UW/ee371labs/lab2/task1/hex_driver.sv
+L0 8
+R8
+r1
+!s85 0
+31
+R9
+Z19 !s107 D:/UW/ee371labs/lab2/task1/hex_driver.sv|
+Z20 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task1|D:/UW/ee371labs/lab2/task1/hex_driver.sv|
+!i113 1
+R12
+R13
+R14
+vhex_driver_testbench
+R1
+R2
+!i10b 1
+!s100 b2V>NNbeT9NKEm[:zZ00^3
+Ij07D81R3I^SFKPQR@bEA]1
+R3
+R15
+S1
+R0
+R16
+R17
+R18
+L0 41
+R8
+r1
+!s85 0
+31
+R9
+R19
+R20
+!i113 1
+R12
+R13
+R14
+vRAM
+R1
+R2
+!i10b 1
+!s100 f_f2[8[61PRZ36Uo_1U3e1
+I@UFdSok2cSHCPXlg?Q9:P3
+R3
+Z21 !s105 RAM_sv_unit
+S1
+R0
+Z22 w1618432355
+Z23 8D:/UW/ee371labs/lab2/task1/RAM.sv
+Z24 FD:/UW/ee371labs/lab2/task1/RAM.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+Z25 !s107 D:/UW/ee371labs/lab2/task1/RAM.sv|
+Z26 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task1|D:/UW/ee371labs/lab2/task1/RAM.sv|
+!i113 1
+R12
+R13
+R14
+n@r@a@m
+vRAM_testbench
+R1
+R2
+!i10b 1
+!s100 [P`7IBR?]jYRomFNVBB^V0
+In6=<5c8]9<mjO8RziNFE>1
+R3
+R21
+S1
+R0
+R22
+R23
+R24
+L0 36
+R8
+r1
+!s85 0
+31
+R9
+R25
+R26
+!i113 1
+R12
+R13
+R14
+n@r@a@m_testbench

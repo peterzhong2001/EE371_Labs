@@ -1,0 +1,14 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+D:/UW/ee371labs/lab4 {D:/UW/ee371labs/lab4/ram32x8.v}
+vlog -sv -work work +incdir+D:/UW/ee371labs/lab4 {D:/UW/ee371labs/lab4/bit_counter.sv}
+vlog -sv -work work +incdir+D:/UW/ee371labs/lab4 {D:/UW/ee371labs/lab4/hex_driver.sv}
+vlog -sv -work work +incdir+D:/UW/ee371labs/lab4 {D:/UW/ee371labs/lab4/DE1_SoC.sv}
+vlog -sv -work work +incdir+D:/UW/ee371labs/lab4 {D:/UW/ee371labs/lab4/binary_search.sv}
+vlog -sv -work work +incdir+D:/UW/ee371labs/lab4 {D:/UW/ee371labs/lab4/DE1_SoC_2.sv}
+

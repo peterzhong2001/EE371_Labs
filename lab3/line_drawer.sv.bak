@@ -1,0 +1,20 @@
+module line_drawer(
+	input logic clk, reset,
+	
+	// x and y coordinates for the start and end points of the line
+	input logic [9:0]	x0, x1, 
+	input logic [8:0] y0, y1,
+
+	//outputs cooresponding to the coordinate pair (x, y)
+	output logic [9:0] x,
+	output logic [8:0] y 
+	);
+	
+	/*
+	 * You'll need to create some registers to keep track of things
+	 * such as error and direction
+	 * Example: */
+	logic signed [11:0] error;
+	
+     
+endmodule

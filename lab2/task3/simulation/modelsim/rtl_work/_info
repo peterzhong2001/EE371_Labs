@@ -1,0 +1,314 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UW/ee371labs/lab2/task3/simulation/modelsim
+vD_FF
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1618551505
+!i10b 1
+!s100 4]OO8HQi@cGh1K^X=LF]K1
+I7FZa]eG1DboA?KS5@Xjn=3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 D_FF_sv_unit
+S1
+R0
+w1618549667
+8D:/UW/ee371labs/lab2/task3/D_FF.sv
+FD:/UW/ee371labs/lab2/task3/D_FF.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1618551505.000000
+!s107 D:/UW/ee371labs/lab2/task3/D_FF.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task3|D:/UW/ee371labs/lab2/task3/D_FF.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+D:/UW/ee371labs/lab2/task3
+Z8 tCvgOpt 0
+n@d_@f@f
+vDE1_SoC
+R1
+R2
+!i10b 1
+!s100 2KPj5XHEclQ;6Cd6>CbPd0
+IME?O>Y?feeVXOGz:17:3O0
+R3
+Z9 !s105 DE1_SoC_sv_unit
+S1
+R0
+Z10 w1618543952
+Z11 8D:/UW/ee371labs/lab2/task3/DE1_SoC.sv
+Z12 FD:/UW/ee371labs/lab2/task3/DE1_SoC.sv
+L0 9
+R4
+r1
+!s85 0
+31
+R5
+Z13 !s107 D:/UW/ee371labs/lab2/task3/DE1_SoC.sv|
+Z14 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task3|D:/UW/ee371labs/lab2/task3/DE1_SoC.sv|
+!i113 1
+R6
+R7
+R8
+n@d@e1_@so@c
+vDE1_SoC_testbench
+R1
+R2
+!i10b 1
+!s100 ioFKiZo24zVXj^HhD[Z=B3
+I?G4KHSJm7]kAo4=ZcbSlC0
+R3
+R9
+S1
+R0
+R10
+R11
+R12
+L0 48
+R4
+r1
+!s85 0
+31
+R5
+R13
+R14
+!i113 1
+R6
+R7
+R8
+n@d@e1_@so@c_testbench
+vFIFO
+R1
+R2
+!i10b 1
+!s100 1Se>zj^RUW8:k7PSVb`Ql1
+IHcd@FZzNkEF2V3JDXg1KV2
+R3
+Z15 !s105 FIFO_sv_unit
+S1
+R0
+Z16 w1618534894
+Z17 8D:/UW/ee371labs/lab2/task3/FIFO.sv
+Z18 FD:/UW/ee371labs/lab2/task3/FIFO.sv
+Z19 L0 11
+R4
+r1
+!s85 0
+31
+R5
+Z20 !s107 D:/UW/ee371labs/lab2/task3/FIFO.sv|
+Z21 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task3|D:/UW/ee371labs/lab2/task3/FIFO.sv|
+!i113 1
+R6
+R7
+R8
+n@f@i@f@o
+vFIFO_Control
+R1
+R2
+!i10b 1
+!s100 F8]oP=OEH@8S1Y;EDAZ[c1
+IoKMN]EM0cAY2C9JkH_E9m1
+R3
+Z22 !s105 FIFO_Control_sv_unit
+S1
+R0
+Z23 w1618551037
+Z24 8D:/UW/ee371labs/lab2/task3/FIFO_Control.sv
+Z25 FD:/UW/ee371labs/lab2/task3/FIFO_Control.sv
+R19
+R4
+r1
+!s85 0
+31
+R5
+Z26 !s107 D:/UW/ee371labs/lab2/task3/FIFO_Control.sv|
+Z27 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task3|D:/UW/ee371labs/lab2/task3/FIFO_Control.sv|
+!i113 1
+R6
+R7
+R8
+n@f@i@f@o_@control
+vFIFO_controller_testbench
+R1
+R2
+!i10b 1
+!s100 8VV@kM1=39]40fAZV^?TP0
+I1ST8fediHNUY7OU[D=mYf2
+R3
+R22
+S1
+R0
+R23
+R24
+R25
+L0 81
+R4
+r1
+!s85 0
+31
+R5
+R26
+R27
+!i113 1
+R6
+R7
+R8
+n@f@i@f@o_controller_testbench
+vFIFO_testbench
+R1
+R2
+!i10b 1
+!s100 Y2AmzBNU;Yb^Nb8;5f__63
+I2nW`neU?]9=^2>4OX_bh[3
+R3
+R15
+S1
+R0
+R16
+R17
+R18
+L0 46
+R4
+r1
+!s85 0
+31
+R5
+R20
+R21
+!i113 1
+R6
+R7
+R8
+n@f@i@f@o_testbench
+vhex_driver
+R1
+R2
+!i10b 1
+!s100 >X08>4FPcCdc=L<^>RD420
+I@_ilgP;mM;RQIgf`TF4OI3
+R3
+Z28 !s105 hex_driver_sv_unit
+S1
+R0
+Z29 w1618463726
+Z30 8D:/UW/ee371labs/lab2/task3/hex_driver.sv
+Z31 FD:/UW/ee371labs/lab2/task3/hex_driver.sv
+L0 9
+R4
+r1
+!s85 0
+31
+R5
+Z32 !s107 D:/UW/ee371labs/lab2/task3/hex_driver.sv|
+Z33 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task3|D:/UW/ee371labs/lab2/task3/hex_driver.sv|
+!i113 1
+R6
+R7
+R8
+vhex_driver_testbench
+R1
+R2
+!i10b 1
+!s100 UKXUb>^mQ9aW0JlX?B?>l2
+IMlT=XAdH=QPPMPR^>Oi;[0
+R3
+R28
+S1
+R0
+R29
+R30
+R31
+L0 38
+R4
+r1
+!s85 0
+31
+R5
+R32
+R33
+!i113 1
+R6
+R7
+R8
+vinput_processing
+R1
+R2
+!i10b 1
+!s100 U80B>o`ClmQY>JP^bX=Ga1
+IC@Z>g9SDO5DKl7m5kVCnP2
+R3
+Z34 !s105 input_processing_sv_unit
+S1
+R0
+Z35 w1618549788
+Z36 8D:/UW/ee371labs/lab2/task3/input_processing.sv
+Z37 FD:/UW/ee371labs/lab2/task3/input_processing.sv
+L0 10
+R4
+r1
+!s85 0
+31
+R5
+Z38 !s107 D:/UW/ee371labs/lab2/task3/input_processing.sv|
+Z39 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab2/task3|D:/UW/ee371labs/lab2/task3/input_processing.sv|
+!i113 1
+R6
+R7
+R8
+vinput_processing_testbench
+R1
+R2
+!i10b 1
+!s100 ]:8_nNUXmn5QM7<PL_9CF1
+Ilmhz:PWGIoSSH3Ye;jMDX3
+R3
+R34
+S1
+R0
+R35
+R36
+R37
+L0 49
+R4
+r1
+!s85 0
+31
+R5
+R38
+R39
+!i113 1
+R6
+R7
+R8
+vram16x8
+R2
+!i10b 1
+!s100 2Pf6MeLLHDkVVjQ352GI51
+InzT_bj3<IX3?oJ2N6mgBL3
+R3
+R0
+w1618445776
+8D:/UW/ee371labs/lab2/task3/ram16x8.v
+FD:/UW/ee371labs/lab2/task3/ram16x8.v
+L0 40
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/UW/ee371labs/lab2/task3/ram16x8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab2/task3|D:/UW/ee371labs/lab2/task3/ram16x8.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/UW/ee371labs/lab2/task3
+R8

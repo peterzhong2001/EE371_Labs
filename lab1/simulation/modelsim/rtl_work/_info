@@ -1,0 +1,212 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UW/ee371labs/lab1/simulation/modelsim
+vcounter
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1617864207
+!i10b 1
+!s100 ?P]UGPlQa5j7;J3R?1j4Q0
+IELQ<JnPn9^G3aBaaZT[4N2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 counter_sv_unit
+S1
+R0
+Z5 w1617750363
+Z6 8D:/UW/ee371labs/lab1/counter.sv
+Z7 FD:/UW/ee371labs/lab1/counter.sv
+L0 10
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1617864207.000000
+Z10 !s107 D:/UW/ee371labs/lab1/counter.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab1|D:/UW/ee371labs/lab1/counter.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+D:/UW/ee371labs/lab1
+Z14 tCvgOpt 0
+vcounter_testbench
+R1
+R2
+!i10b 1
+!s100 8;AXfM281NlmEm0i[MNdT3
+IIc6omf?e=DEX14WdWeY3H3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 46
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vDE1_SoC
+R1
+Z15 !s110 1617864208
+!i10b 1
+!s100 8Lbe;kgKG2diDhaHM=;@c2
+Ib4XQ8jk3bX?MD<TeadJVM1
+R3
+Z16 !s105 DE1_SoC_sv_unit
+S1
+R0
+Z17 w1617750127
+Z18 8D:/UW/ee371labs/lab1/DE1_SoC.sv
+Z19 FD:/UW/ee371labs/lab1/DE1_SoC.sv
+L0 11
+R8
+r1
+!s85 0
+31
+Z20 !s108 1617864208.000000
+Z21 !s107 D:/UW/ee371labs/lab1/DE1_SoC.sv|
+Z22 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab1|D:/UW/ee371labs/lab1/DE1_SoC.sv|
+!i113 1
+R12
+R13
+R14
+n@d@e1_@so@c
+vDE1_SoC_testbench
+R1
+R15
+!i10b 1
+!s100 mZgd<FikSJoCd3;4h51Vb1
+Ib7e9J:>4?AE?Cbd3D]jbL1
+R3
+R16
+S1
+R0
+R17
+R18
+R19
+L0 40
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R12
+R13
+R14
+n@d@e1_@so@c_testbench
+vhex_driver
+R1
+R15
+!i10b 1
+!s100 gZFdScYTV5P2@IR;`AiCO3
+IA98EPEE7Yj8=7Jz0KL0Y;3
+R3
+Z23 !s105 hex_driver_sv_unit
+S1
+R0
+Z24 w1617750593
+Z25 8D:/UW/ee371labs/lab1/hex_driver.sv
+Z26 FD:/UW/ee371labs/lab1/hex_driver.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+Z27 !s107 D:/UW/ee371labs/lab1/hex_driver.sv|
+Z28 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab1|D:/UW/ee371labs/lab1/hex_driver.sv|
+!i113 1
+R12
+R13
+R14
+vhex_driver_testbench
+R1
+R15
+!i10b 1
+!s100 n?:z7:lFo]cZLk9hPXl`>1
+IFm`[E0VaK;RNe`Ql3POS@0
+R3
+R23
+S1
+R0
+R24
+R25
+R26
+L0 130
+R8
+r1
+!s85 0
+31
+R9
+R27
+R28
+!i113 1
+R12
+R13
+R14
+vsensors
+R1
+R2
+!i10b 1
+!s100 kJgYYC46fZIaESiZg3@BA3
+Io]X_fkFAJSJ<SSE]iCXI]1
+R3
+Z29 !s105 sensors_sv_unit
+S1
+R0
+Z30 w1617750277
+Z31 8D:/UW/ee371labs/lab1/sensors.sv
+Z32 FD:/UW/ee371labs/lab1/sensors.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+Z33 !s107 D:/UW/ee371labs/lab1/sensors.sv|
+Z34 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab1|D:/UW/ee371labs/lab1/sensors.sv|
+!i113 1
+R12
+R13
+R14
+vsensors_testbench
+R1
+R2
+!i10b 1
+!s100 X@VTaOYmUjJ<dWEKI[H`G3
+I>;=bM?keiZ1J>k:J]Z42d0
+R3
+R29
+S1
+R0
+R30
+R31
+R32
+L0 81
+R8
+r1
+!s85 0
+31
+R9
+R33
+R34
+!i113 1
+R12
+R13
+R14

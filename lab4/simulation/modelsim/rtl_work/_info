@@ -1,0 +1,110 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UW/ee371labs/lab4/simulation/modelsim
+vbinary_search
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1620690901
+!i10b 1
+!s100 HlffQbI;n;T9RNmR_bK3:1
+I]3ila;1<Db_LjYFzAH@h^0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 binary_search_sv_unit
+S1
+R0
+Z5 w1620690448
+Z6 8D:/UW/ee371labs/lab4/binary_search.sv
+Z7 FD:/UW/ee371labs/lab4/binary_search.sv
+L0 10
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1620690901.000000
+Z10 !s107 D:/UW/ee371labs/lab4/binary_search.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab4|D:/UW/ee371labs/lab4/binary_search.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+D:/UW/ee371labs/lab4
+Z14 tCvgOpt 0
+vbinary_search_testbench
+R1
+R2
+!i10b 1
+!s100 k;g;ooU9b0>1kHR0d6FLh3
+I`hUkFgUKK]fOPVD0<iL5i1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 107
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vram32x8
+R1
+R2
+!i10b 1
+!s100 G@[inQ29X0><aD]Gm1k@a3
+I;eINGICSEjS>0;^0__Q;[0
+R3
+Z15 !s105 ram32x8_sv_unit
+S1
+R0
+Z16 w1620690415
+Z17 8D:/UW/ee371labs/lab4/ram32x8.sv
+Z18 FD:/UW/ee371labs/lab4/ram32x8.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+Z19 !s107 D:/UW/ee371labs/lab4/ram32x8.sv|
+Z20 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab4|D:/UW/ee371labs/lab4/ram32x8.sv|
+!i113 1
+R12
+R13
+R14
+vram32x8_testbench
+R1
+R2
+!i10b 1
+!s100 H2`eWW:ZISY^]U902Y_3_2
+I>Mb?Fh<]6O87oiNMFGPj00
+R3
+R15
+S1
+R0
+R16
+R17
+R18
+L0 23
+R8
+r1
+!s85 0
+31
+R9
+R19
+R20
+!i113 1
+R12
+R13
+R14

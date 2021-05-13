@@ -1,0 +1,97 @@
+# Reading D:/QuartusLite/modelsim_ase/tcl/vsim/pref.tcl
+# do DE1_SoC_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying D:/QuartusLite/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+D:/UW/ee371labs/lab3 {D:/UW/ee371labs/lab3/line_drawer.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:37 on May 03,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/UW/ee371labs/lab3" D:/UW/ee371labs/lab3/line_drawer.sv 
+# -- Compiling module line_drawer
+# -- Compiling module line_drawer_testbench
+# 
+# Top level modules:
+# 	line_drawer_testbench
+# End time: 22:01:37 on May 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/UW/ee371labs/lab3 {D:/UW/ee371labs/lab3/VGA_framebuffer.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:37 on May 03,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/UW/ee371labs/lab3" D:/UW/ee371labs/lab3/VGA_framebuffer.sv 
+# -- Compiling module VGA_framebuffer
+# 
+# Top level modules:
+# 	VGA_framebuffer
+# End time: 22:01:37 on May 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/UW/ee371labs/lab3 {D:/UW/ee371labs/lab3/screen_clearer.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:38 on May 03,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/UW/ee371labs/lab3" D:/UW/ee371labs/lab3/screen_clearer.sv 
+# -- Compiling module screen_clearer
+# -- Compiling module screen_clearer_testbench
+# 
+# Top level modules:
+# 	screen_clearer_testbench
+# End time: 22:01:38 on May 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/UW/ee371labs/lab3 {D:/UW/ee371labs/lab3/input_processing.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:38 on May 03,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/UW/ee371labs/lab3" D:/UW/ee371labs/lab3/input_processing.sv 
+# -- Compiling module input_processing
+# -- Compiling module input_processing_testbench
+# 
+# Top level modules:
+# 	input_processing_testbench
+# End time: 22:01:38 on May 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/UW/ee371labs/lab3 {D:/UW/ee371labs/lab3/DE1_SoC_2.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:38 on May 03,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/UW/ee371labs/lab3" D:/UW/ee371labs/lab3/DE1_SoC_2.sv 
+# -- Compiling module DE1_SoC_2
+# -- Compiling module DE1_SoC_2_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_2_testbench
+# End time: 22:01:38 on May 03,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim work.DE1_SoC_2_testbench
+# vsim work.DE1_SoC_2_testbench 
+# Start time: 22:01:42 on May 03,2021
+# Loading sv_std.std
+# Loading work.DE1_SoC_2_testbench
+# Loading work.DE1_SoC_2
+# Loading work.input_processing
+# Loading work.screen_clearer
+# Loading work.VGA_framebuffer
+# Loading work.line_drawer
+do D:/UW/ee371labs/lab3/simulation/modelsim/wave.do
+run -all
+# ** Note: $stop    : D:/UW/ee371labs/lab3/DE1_SoC_2.sv(208)
+#    Time: 40500550 ps  Iteration: 1  Instance: /DE1_SoC_2_testbench
+# Break in Module DE1_SoC_2_testbench at D:/UW/ee371labs/lab3/DE1_SoC_2.sv line 208
+add wave -position end  sim:/DE1_SoC_2_testbench/dut/y
+add wave -position 7  sim:/DE1_SoC_2_testbench/dut/x
+restart -f
+run -all
+# ** Note: $stop    : D:/UW/ee371labs/lab3/DE1_SoC_2.sv(208)
+#    Time: 40500550 ps  Iteration: 1  Instance: /DE1_SoC_2_testbench
+# Break in Module DE1_SoC_2_testbench at D:/UW/ee371labs/lab3/DE1_SoC_2.sv line 208
+add wave -position end  sim:/DE1_SoC_2_testbench/dut/pixel_color
+restart -f
+run -all
+# ** Note: $stop    : D:/UW/ee371labs/lab3/DE1_SoC_2.sv(208)
+#    Time: 40500550 ps  Iteration: 1  Instance: /DE1_SoC_2_testbench
+# Break in Module DE1_SoC_2_testbench at D:/UW/ee371labs/lab3/DE1_SoC_2.sv line 208
+# End time: 22:37:18 on May 03,2021, Elapsed time: 0:35:36
+# Errors: 0, Warnings: 0

@@ -1,0 +1,242 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/UW/ee271labs/lab1
+vcounter
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1617750691
+!i10b 1
+!s100 ?P]UGPlQa5j7;J3R?1j4Q0
+IjE`cUG2<k1@SZgg7;O]dG1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 counter_sv_unit
+S1
+Z4 dD:/UW/ee371labs/lab1
+Z5 w1617750363
+Z6 8./counter.sv
+Z7 F./counter.sv
+L0 10
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1617750691.000000
+Z10 !s107 ./counter.sv|
+Z11 !s90 -reportprogress|300|./counter.sv|
+!i113 1
+Z12 tCvgOpt 0
+vcounter_testbench
+R0
+R1
+!i10b 1
+!s100 8;AXfM281NlmEm0i[MNdT3
+IaiIn`hW6<3<B5behJgIRa0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 46
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vDE1_SoC
+R0
+R1
+!i10b 1
+!s100 8Lbe;kgKG2diDhaHM=;@c2
+IWR^YRhOQ:gScK<@N=CXA30
+R2
+Z13 !s105 DE1_SoC_sv_unit
+S1
+R4
+Z14 w1617750127
+Z15 8./DE1_SoC.sv
+Z16 F./DE1_SoC.sv
+L0 11
+R8
+r1
+!s85 0
+31
+R9
+Z17 !s107 ./DE1_SoC.sv|
+Z18 !s90 -reportprogress|300|./DE1_SoC.sv|
+!i113 1
+R12
+n@d@e1_@so@c
+vDE1_SoC_testbench
+R0
+R1
+!i10b 1
+!s100 mZgd<FikSJoCd3;4h51Vb1
+I^i8Shl>B_j[=Gz;41DP6;3
+R2
+R13
+S1
+R4
+R14
+R15
+R16
+L0 40
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!i113 1
+R12
+n@d@e1_@so@c_testbench
+vhex_driver
+R0
+R1
+!i10b 1
+!s100 gZFdScYTV5P2@IR;`AiCO3
+IO=aR7MOjgFjCKE4c;CZ]m1
+R2
+Z19 !s105 hex_driver_sv_unit
+S1
+R4
+Z20 w1617750593
+Z21 8./hex_driver.sv
+Z22 F./hex_driver.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+Z23 !s107 ./hex_driver.sv|
+Z24 !s90 -reportprogress|300|./hex_driver.sv|
+!i113 1
+R12
+vhex_driver_testbench
+R0
+R1
+!i10b 1
+!s100 n?:z7:lFo]cZLk9hPXl`>1
+Ihn[CAeQcOU0jiz15h<TSZ1
+R2
+R19
+S1
+R4
+R20
+R21
+R22
+L0 130
+R8
+r1
+!s85 0
+31
+R9
+R23
+R24
+!i113 1
+R12
+vmux2_1
+R0
+Z25 !s110 1611099505
+!i10b 1
+!s100 db@k@fnga:kY6M:UDM?iV1
+IJ>QNS`gdkcliNLo;gQk_83
+R2
+Z26 !s105 mux2_1_sv_unit
+S1
+Z27 dD:/UW/ee271labs/lab3
+Z28 w1609802794
+Z29 8./mux2_1.sv
+Z30 F./mux2_1.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z31 !s108 1611099504.000000
+Z32 !s107 ./mux2_1.sv|
+Z33 !s90 -reportprogress|300|./mux2_1.sv|
+!i113 1
+R12
+vmux2_1_testbench
+R0
+R25
+!i10b 1
+!s100 AaPWH7@z6J3I9g7Ce@1ED1
+I;eMHfQ<@c56k5bMBE8Am71
+R2
+R26
+S1
+R27
+R28
+R29
+R30
+L0 8
+R8
+r1
+!s85 0
+31
+R31
+R32
+R33
+!i113 1
+R12
+vsensors
+R0
+R1
+!i10b 1
+!s100 kJgYYC46fZIaESiZg3@BA3
+IYdS2h5?Z?zEz7M^YDaIXg1
+R2
+Z34 !s105 sensors_sv_unit
+S1
+R4
+Z35 w1617750277
+Z36 8./sensors.sv
+Z37 F./sensors.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+Z38 !s107 ./sensors.sv|
+Z39 !s90 -reportprogress|300|./sensors.sv|
+!i113 1
+R12
+vsensors_testbench
+R0
+R1
+!i10b 1
+!s100 X@VTaOYmUjJ<dWEKI[H`G3
+I_@jKAZN5XE4;]^EEJ2>Y<2
+R2
+R34
+S1
+R4
+R35
+R36
+R37
+L0 81
+R8
+r1
+!s85 0
+31
+R9
+R38
+R39
+!i113 1
+R12

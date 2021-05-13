@@ -1,0 +1,22 @@
+module screen_clearer (clear, clk, x);
+
+	input logic clear, clk;
+	output logic [9:0] x;
+	
+	
+	integer count;
+	
+	always_ff @(posedge clk) begin
+		if (reset) begin
+			x0 <= 0;
+			x1 <= 
+		end
+		else if (clear) begin
+			if (count == 500) begin
+				x0 <= x0 + 1;
+				x1 <= x1 + 1;
+			end
+		end
+	end
+
+endmodule 

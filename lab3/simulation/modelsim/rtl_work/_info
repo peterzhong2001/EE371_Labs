@@ -1,0 +1,238 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UW/ee371labs/lab3/simulation/modelsim
+vDE1_SoC_2
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1620104498
+!i10b 1
+!s100 K:JaK9KC75:fRUecNQGj82
+Ikjc^H;]VI>SCRQD1HbG`<3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 DE1_SoC_2_sv_unit
+S1
+R0
+Z5 w1620104467
+Z6 8D:/UW/ee371labs/lab3/DE1_SoC_2.sv
+Z7 FD:/UW/ee371labs/lab3/DE1_SoC_2.sv
+Z8 L0 10
+Z9 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z10 !s108 1620104498.000000
+Z11 !s107 D:/UW/ee371labs/lab3/DE1_SoC_2.sv|
+Z12 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab3|D:/UW/ee371labs/lab3/DE1_SoC_2.sv|
+!i113 1
+Z13 o-sv -work work
+Z14 !s92 -sv -work work +incdir+D:/UW/ee371labs/lab3
+Z15 tCvgOpt 0
+n@d@e1_@so@c_2
+vDE1_SoC_2_testbench
+R1
+R2
+!i10b 1
+!s100 ZHMKTz?CYflAI@O>?ChS;2
+IRW:W]HbRKO;IEbljJWaBN0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 175
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n@d@e1_@so@c_2_testbench
+vinput_processing
+R1
+R2
+!i10b 1
+!s100 >ADPSL7RmhGGZDb[U`C;e3
+IF2CS99@=638MT[6Ja^N2I3
+R3
+Z16 !s105 input_processing_sv_unit
+S1
+R0
+Z17 w1619660527
+Z18 8D:/UW/ee371labs/lab3/input_processing.sv
+Z19 FD:/UW/ee371labs/lab3/input_processing.sv
+R8
+R9
+r1
+!s85 0
+31
+R10
+Z20 !s107 D:/UW/ee371labs/lab3/input_processing.sv|
+Z21 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab3|D:/UW/ee371labs/lab3/input_processing.sv|
+!i113 1
+R13
+R14
+R15
+vinput_processing_testbench
+R1
+R2
+!i10b 1
+!s100 [FhM[08D:X<kn?P=_YUNP1
+I?`jHjZi;U79fJnCCD8BPX0
+R3
+R16
+S1
+R0
+R17
+R18
+R19
+L0 51
+R9
+r1
+!s85 0
+31
+R10
+R20
+R21
+!i113 1
+R13
+R14
+R15
+vline_drawer
+R1
+Z22 !s110 1620104497
+!i10b 1
+!s100 Qd5UWG4EMN@z?ZM=Q=o<V1
+IG2k17nc^2OPF;n]P5zN]d1
+R3
+Z23 !s105 line_drawer_sv_unit
+S1
+R0
+Z24 w1619565517
+Z25 8D:/UW/ee371labs/lab3/line_drawer.sv
+Z26 FD:/UW/ee371labs/lab3/line_drawer.sv
+R8
+R9
+r1
+!s85 0
+31
+Z27 !s108 1620104497.000000
+Z28 !s107 D:/UW/ee371labs/lab3/line_drawer.sv|
+Z29 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab3|D:/UW/ee371labs/lab3/line_drawer.sv|
+!i113 1
+R13
+R14
+R15
+vline_drawer_testbench
+R1
+R22
+!i10b 1
+!s100 D5[OBS^Z=cES11S=5kmaG3
+ITbXVRhzn@TOgHcbmJ@W1W1
+R3
+R23
+S1
+R0
+R24
+R25
+R26
+L0 95
+R9
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R13
+R14
+R15
+vscreen_clearer
+R1
+R2
+!i10b 1
+!s100 o<Rz=<eY`F6Hk;?BS:X_@1
+I5VKJIB6LP8AR??kL_T:g60
+R3
+Z30 !s105 screen_clearer_sv_unit
+S1
+R0
+Z31 w1619652067
+Z32 8D:/UW/ee371labs/lab3/screen_clearer.sv
+Z33 FD:/UW/ee371labs/lab3/screen_clearer.sv
+L0 11
+R9
+r1
+!s85 0
+31
+R10
+Z34 !s107 D:/UW/ee371labs/lab3/screen_clearer.sv|
+Z35 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab3|D:/UW/ee371labs/lab3/screen_clearer.sv|
+!i113 1
+R13
+R14
+R15
+vscreen_clearer_testbench
+R1
+R2
+!i10b 1
+!s100 ]nH=^BT0WQoXzCE`Bl=]?1
+IERnYIViWZYD0<`EBEfB?b3
+R3
+R30
+S1
+R0
+R31
+R32
+R33
+L0 66
+R9
+r1
+!s85 0
+31
+R10
+R34
+R35
+!i113 1
+R13
+R14
+R15
+vVGA_framebuffer
+R1
+R22
+!i10b 1
+!s100 `6A`P2RPlQ@7gHH_0b8;_1
+I@Q5b;kWi1HWknPom25T4Z1
+R3
+!s105 VGA_framebuffer_sv_unit
+S1
+R0
+w1619548038
+8D:/UW/ee371labs/lab3/VGA_framebuffer.sv
+FD:/UW/ee371labs/lab3/VGA_framebuffer.sv
+L0 3
+R9
+r1
+!s85 0
+31
+R27
+!s107 D:/UW/ee371labs/lab3/VGA_framebuffer.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab3|D:/UW/ee371labs/lab3/VGA_framebuffer.sv|
+!i113 1
+R13
+R14
+R15
+n@v@g@a_framebuffer

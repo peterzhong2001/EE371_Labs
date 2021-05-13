@@ -1,0 +1,6 @@
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (10281): Verilog HDL Declaration information at DE1_SoC.sv(10): object "HEX5" differs only in case from object "hex5" in the same scope File: D:/UW/ee371labs/lab2/task3/DE1_SoC.sv Line: 10
+Info (10281): Verilog HDL Declaration information at DE1_SoC.sv(10): object "HEX4" differs only in case from object "hex4" in the same scope File: D:/UW/ee371labs/lab2/task3/DE1_SoC.sv Line: 10
+Info (10281): Verilog HDL Declaration information at DE1_SoC.sv(10): object "HEX1" differs only in case from object "hex1" in the same scope File: D:/UW/ee371labs/lab2/task3/DE1_SoC.sv Line: 10
+Info (10281): Verilog HDL Declaration information at DE1_SoC.sv(10): object "HEX0" differs only in case from object "hex0" in the same scope File: D:/UW/ee371labs/lab2/task3/DE1_SoC.sv Line: 10
+Warning (10034): Output port "LEDR[7..0]" at DE1_SoC.sv(11) has no driver File: D:/UW/ee371labs/lab2/task3/DE1_SoC.sv Line: 11
