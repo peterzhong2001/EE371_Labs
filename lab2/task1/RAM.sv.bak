@@ -1,3 +1,0 @@
-module RAM (addr_in, data_in, data_out, write, clk, reset);
-
-endmodule 
