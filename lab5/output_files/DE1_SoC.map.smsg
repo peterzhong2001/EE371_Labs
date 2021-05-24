@@ -1,0 +1,5 @@
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Warning (10030): Net "task2_left" at DE1_SoC.sv(24) has no driver or initial value, using a default initial value '0' File: D:/UW/ee371labs/lab5/DE1_SoC.sv Line: 24
+Warning (10030): Net "task2_right" at DE1_SoC.sv(24) has no driver or initial value, using a default initial value '0' File: D:/UW/ee371labs/lab5/DE1_SoC.sv Line: 24
+Warning (10030): Net "task3_left" at DE1_SoC.sv(24) has no driver or initial value, using a default initial value '0' File: D:/UW/ee371labs/lab5/DE1_SoC.sv Line: 24
+Warning (10030): Net "task3_right" at DE1_SoC.sv(24) has no driver or initial value, using a default initial value '0' File: D:/UW/ee371labs/lab5/DE1_SoC.sv Line: 24

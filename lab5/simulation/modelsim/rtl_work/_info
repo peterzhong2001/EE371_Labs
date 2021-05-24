@@ -1,0 +1,336 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UW/ee371labs/lab5/simulation/modelsim
+vAltera_UP_Audio_Bit_Counter
+Z1 !s110 1621301444
+!i10b 1
+!s100 J2Tb5SPZN>>^6S@MM9o:c1
+IVZIeC0D:<Q4h?AH0Ib@4g3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1581627522
+8D:/UW/ee371labs/lab5/Altera_UP_Audio_Bit_Counter.v
+FD:/UW/ee371labs/lab5/Altera_UP_Audio_Bit_Counter.v
+Z4 L0 49
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1621301444.000000
+!s107 D:/UW/ee371labs/lab5/Altera_UP_Audio_Bit_Counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/Altera_UP_Audio_Bit_Counter.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+D:/UW/ee371labs/lab5
+Z9 tCvgOpt 0
+n@altera_@u@p_@audio_@bit_@counter
+vAltera_UP_Audio_In_Deserializer
+R1
+!i10b 1
+!s100 MnK8@IQLcda;1gGBW7@Tz0
+IkQE2^m;1Fn9o^>Q@U6a3K0
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/Altera_UP_Audio_In_Deserializer.v
+FD:/UW/ee371labs/lab5/Altera_UP_Audio_In_Deserializer.v
+Z10 L0 47
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UW/ee371labs/lab5/Altera_UP_Audio_In_Deserializer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/Altera_UP_Audio_In_Deserializer.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@audio_@in_@deserializer
+vAltera_UP_Audio_Out_Serializer
+R1
+!i10b 1
+!s100 BllhdjOFFm6Rj]o@Xid882
+I?I=QGWUjV``DmINgF2dmE2
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/Altera_UP_Audio_Out_Serializer.v
+FD:/UW/ee371labs/lab5/Altera_UP_Audio_Out_Serializer.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UW/ee371labs/lab5/Altera_UP_Audio_Out_Serializer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/Altera_UP_Audio_Out_Serializer.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@audio_@out_@serializer
+vAltera_UP_Clock_Edge
+R1
+!i10b 1
+!s100 XaX6^HY04T3X?D32?HdN>2
+I?lXe9eFd1`hUZ89JOAUj=1
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/Altera_UP_Clock_Edge.v
+FD:/UW/ee371labs/lab5/Altera_UP_Clock_Edge.v
+Z11 L0 48
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UW/ee371labs/lab5/Altera_UP_Clock_Edge.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/Altera_UP_Clock_Edge.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@clock_@edge
+vAltera_UP_I2C
+R1
+!i10b 1
+!s100 JU94J3RToJ0DChmlIi^B43
+I:<518aGe?H0QICh8N:WKf3
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/Altera_UP_I2C.v
+FD:/UW/ee371labs/lab5/Altera_UP_I2C.v
+R11
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UW/ee371labs/lab5/Altera_UP_I2C.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/Altera_UP_I2C.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@i2@c
+vAltera_UP_I2C_AV_Auto_Initialize
+Z12 !s110 1621301443
+!i10b 1
+!s100 TbIA;9787GSRoV9be_N2^2
+ILJAn3bRkN`e=9CEh?OZ1C2
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/Altera_UP_I2C_AV_Auto_Initialize.v
+FD:/UW/ee371labs/lab5/Altera_UP_I2C_AV_Auto_Initialize.v
+R11
+R5
+r1
+!s85 0
+31
+Z13 !s108 1621301443.000000
+!s107 D:/UW/ee371labs/lab5/Altera_UP_I2C_AV_Auto_Initialize.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/Altera_UP_I2C_AV_Auto_Initialize.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@i2@c_@a@v_@auto_@initialize
+vAltera_UP_Slow_Clock_Generator
+R12
+!i10b 1
+!s100 U@B3NehPQRXcdeI<e=@I53
+I?OM0ZG1am0z7oSCL`d6V@3
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/Altera_UP_Slow_Clock_Generator.v
+FD:/UW/ee371labs/lab5/Altera_UP_Slow_Clock_Generator.v
+L0 53
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/UW/ee371labs/lab5/Altera_UP_Slow_Clock_Generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/Altera_UP_Slow_Clock_Generator.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@slow_@clock_@generator
+vAltera_UP_SYNC_FIFO
+R12
+!i10b 1
+!s100 jDg=^5VOBFbFho_;gZbiA1
+I_Q]YV:[kB4=4<0SWGd>PS2
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/Altera_UP_SYNC_FIFO.v
+FD:/UW/ee371labs/lab5/Altera_UP_SYNC_FIFO.v
+R10
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/UW/ee371labs/lab5/Altera_UP_SYNC_FIFO.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/Altera_UP_SYNC_FIFO.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@s@y@n@c_@f@i@f@o
+vaudio_and_video_config
+R12
+!i10b 1
+!s100 z3>_mDg4hMjn4VjXHn00U3
+IIo<LYXUYifBaK=04m^iN^1
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/audio_and_video_config.v
+FD:/UW/ee371labs/lab5/audio_and_video_config.v
+R4
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/UW/ee371labs/lab5/audio_and_video_config.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/audio_and_video_config.v|
+!i113 1
+R7
+R8
+R9
+vaudio_codec
+R12
+!i10b 1
+!s100 43h1ad@K@aG98IRVc4i1M1
+I1j97jL_92SaZ9k1abO=f90
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/audio_codec.v
+FD:/UW/ee371labs/lab5/audio_codec.v
+R4
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/UW/ee371labs/lab5/audio_codec.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/audio_codec.v|
+!i113 1
+R7
+R8
+R9
+vclock_generator
+R12
+!i10b 1
+!s100 39OA<gKn`aijkLgT:8]8i2
+Ik;l;Y6CXlO[g9ncN1Xn>:2
+R2
+R0
+R3
+8D:/UW/ee371labs/lab5/clock_generator.v
+FD:/UW/ee371labs/lab5/clock_generator.v
+R11
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/UW/ee371labs/lab5/clock_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/clock_generator.v|
+!i113 1
+R7
+R8
+R9
+vDE1_SoC
+Z14 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R1
+!i10b 1
+!s100 MH@M8OZGn[^8B>X<GRUj12
+I67;:j`BAlAB^EJZhz<]TV3
+R2
+!s105 DE1_SoC_sv_unit
+S1
+R0
+w1581743116
+8D:/UW/ee371labs/lab5/DE1_SoC.sv
+FD:/UW/ee371labs/lab5/DE1_SoC.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UW/ee371labs/lab5/DE1_SoC.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/DE1_SoC.sv|
+!i113 1
+Z15 o-sv -work work
+Z16 !s92 -sv -work work +incdir+D:/UW/ee371labs/lab5
+R9
+n@d@e1_@so@c
+vnoise_gen
+R14
+R1
+!i10b 1
+!s100 _nMfB40VAYYKFoDL@c_lY0
+I`>_MVm9=1:j1:C3oiR:nX3
+R2
+Z17 !s105 noise_gen_sv_unit
+S1
+R0
+Z18 w1581715922
+Z19 8D:/UW/ee371labs/lab5/noise_gen.sv
+Z20 FD:/UW/ee371labs/lab5/noise_gen.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+Z21 !s107 D:/UW/ee371labs/lab5/noise_gen.sv|
+Z22 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/lab5|D:/UW/ee371labs/lab5/noise_gen.sv|
+!i113 1
+R15
+R16
+R9
+vnoise_gen_testbench
+R14
+R1
+!i10b 1
+!s100 ``;@?X[J89_UljO9KJh^Z1
+IeF0=kza8NkK3VBAL^:7MQ3
+R2
+R17
+S1
+R0
+R18
+R19
+R20
+L0 21
+R5
+r1
+!s85 0
+31
+R6
+R21
+R22
+!i113 1
+R15
+R16
+R9
