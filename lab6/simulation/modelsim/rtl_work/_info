@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UW/ee371labs/EE.CSE371/simulation/modelsim
+vaudio_averaging_shift
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1622151444
+!i10b 1
+!s100 ]1>;XA<EMX5h2fWB^Y:RF2
+ITLmRL_>9Qj_FDkGF5d;l00
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 audio_averaging_shift_sv_unit
+S1
+R0
+Z5 w1622151369
+Z6 8D:/UW/ee371labs/EE.CSE371/audio_averaging_shift.sv
+Z7 FD:/UW/ee371labs/EE.CSE371/audio_averaging_shift.sv
+L0 6
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1622151444.000000
+Z10 !s107 D:/UW/ee371labs/EE.CSE371/audio_averaging_shift.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UW/ee371labs/EE.CSE371|D:/UW/ee371labs/EE.CSE371/audio_averaging_shift.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+D:/UW/ee371labs/EE.CSE371
+Z14 tCvgOpt 0
+vaudio_averaging_shift_testbench
+R1
+R2
+!i10b 1
+!s100 7CB_XRU4DNN<a_TDUNk5g2
+IA8_R8d=2CojgFo[?Vo=LN3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 94
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vCLOCK25_PLL
+!s110 1622151443
+!i10b 1
+!s100 [5VdkhTLeY18Wo>i2WMHD3
+I<9c]g;UGCZg^3X:>VoWeh1
+R3
+R0
+w1622137691
+8D:/UW/ee371labs/EE.CSE371/CLOCK25_PLL_sim/CLOCK25_PLL.vo
+FD:/UW/ee371labs/EE.CSE371/CLOCK25_PLL_sim/CLOCK25_PLL.vo
+L0 32
+R8
+r1
+!s85 0
+31
+!s108 1622151443.000000
+!s107 D:/UW/ee371labs/EE.CSE371/CLOCK25_PLL_sim/CLOCK25_PLL.vo|
+!s90 -reportprogress|300|D:/UW/ee371labs/EE.CSE371/CLOCK25_PLL_sim/CLOCK25_PLL.vo|
+!i113 1
+R14
+n@c@l@o@c@k25_@p@l@l
